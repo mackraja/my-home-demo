@@ -1,0 +1,108 @@
+.orange-bar {
+    width: 100%;
+    height: 6px;
+    background-color: #ed711c;
+    margin-bottom: 20px;
+}
+.nav-less-banner {
+    height: auto;
+}
+.logo-container {
+    width: 100%;
+    position: relative;
+    display: inline-block;    
+    margin: 0;
+    margin-left: -10px;
+    height: 50%;
+}
+.logo-image {
+    width: 245px;
+    text-align: center;
+}
+.language-toggle-container {
+    height: 100%;
+    float: left;
+    margin-top: 20px;
+}
+.footer-button-nav {
+    height: 250px;
+}
+
+.fancy-heading {
+	line-height: 0.5;
+	text-align: center;
+}
+.fancy-heading span {
+	display: inline-block;
+	position: relative;
+	font-family: "Trade Gothic LT Std","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-style: normal;
+	font-stretch: normal;
+	font-weight: 900;
+	line-height: 1.5;
+	letter-spacing: 0.1px;
+	color: #4d525a;
+}
+.fancy-heading span:before,
+.fancy-heading span:after {
+	content: "";
+	position: absolute;
+	height: 5px;
+	border-bottom: 1px solid #ccc;
+	top: 0;
+	width: 380px;
+	margin-top: 6px;
+}
+.fancy-heading span:before {
+	right: 100%;
+	margin-right: 15px;
+}
+.fancy-heading span:after {
+	left: 100%;
+	margin-left: 15px;
+}
+.icon-button-footer a img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.icon-button-footer {
+	padding-top: 20px;
+}
+.footer-button-nav {
+	height: 250px;
+}
+.footer-button-nav a {
+	font-family: "Trade Gothic LT Std","Helvetica Neue", Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	font-weight: 900;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.57;
+	letter-spacing: 0.1px;
+	text-align: center;
+	color: #4d525a;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.footer-icon-button span {
+	margin-left: 10px;
+}
+.footer-button-nav {
+	height: 250px;
+}
+.footer-button-nav a {
+	font-family: "Trade Gothic LT Std","Helvetica Neue", Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	font-weight: 900;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 1.57;
+	letter-spacing: 0.1px;
+	text-align: center;
+	color: #4d525a;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.footer-icon-button span {
+	margin-left: 10px;
+}

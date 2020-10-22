@@ -4,10 +4,18 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import 'bootstrap/dist/css/bootstrap.css';
+
+import './style/css/custom.css';
+// import './style/css/global.css';
+import './style/css/button-footer.css';
+
+const reduxRoot = (
+  <App />
+);
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  reduxRoot,
   document.getElementById('root')
 );
 
